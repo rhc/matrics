@@ -1,0 +1,11 @@
+= README
+
+This web site is build for my son and other kids like him 
+who are preparing for the South African National Senior Certificate.
+
+After signup, the student should be able to:
+
+- register for exams 
+- take practice exams
+- take time exercises to practise specific modules
+- review flashcards
